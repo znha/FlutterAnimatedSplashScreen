@@ -1,16 +1,7 @@
-# splash_screen
+# Adding an animated splash_screen to an application
 
-A new Flutter project.
+learn how to add an animated splash screen to your application while performing an asynchronous operation like loading data from a webserver or reading from a file. 
 
-## Getting Started
+## Where to find the code
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You can find the code in the lib folder in the main.dart file. you also need to add an assets folder that contains your animated image and to add the image to the assests section in the pubspec.yaml file (comments will help you)
